@@ -1,0 +1,1 @@
+Vou disponibilizar a resolução das 50 questões da cadeira de Programação Funcional feitas em Elixir.
